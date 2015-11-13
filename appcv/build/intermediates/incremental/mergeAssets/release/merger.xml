@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/agrawalamod/Documents/Android Development/ReceiptScanner/appcv/src/main/assets"/></dataSet><dataSet config="release"><source path="/Users/agrawalamod/Documents/Android Development/ReceiptScanner/appcv/src/release/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Shuchita Gupta\Documents\IIIT-BTech\Semester5\IAProject\ReceiptScanner\appcv\src\main\assets"/></dataSet><dataSet config="release"><source path="C:\Users\Shuchita Gupta\Documents\IIIT-BTech\Semester5\IAProject\ReceiptScanner\appcv\src\release\assets"/></dataSet></merger>

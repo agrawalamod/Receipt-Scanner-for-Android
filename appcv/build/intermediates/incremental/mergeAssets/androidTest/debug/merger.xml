@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="debug"><source path="/Users/agrawalamod/Documents/Android Development/ReceiptScanner/appcv/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/agrawalamod/Documents/Android Development/ReceiptScanner/appcv/src/androidTest/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="debug"><source path="C:\Users\Shuchita Gupta\Documents\IIIT-BTech\Semester5\IAProject\ReceiptScanner\appcv\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="C:\Users\Shuchita Gupta\Documents\IIIT-BTech\Semester5\IAProject\ReceiptScanner\appcv\src\androidTest\assets"/></dataSet></merger>
